@@ -15,3 +15,6 @@ Run the executable.
 Convert PPMs to video: ```ffmpeg -i output_%03d.ppm -r 40 out.mp4```  
 Tech Stack:​ Pure C++, no external libs.  
 Output:​ PPM image sequence → easily shareable/renderable.
+### Relevant Links:
+Graphics API is irrelevant - Tsoding[→youtube](https://www.youtube.com/watch?v=xNX9H_ZkfNE "https://www.youtube.com/watch?v=xNX9H_ZkfNE")。  
+Donut math: how donut.c works - Andy Sloane[→blog](https://www.a1k0n.net/2011/07/20/donut-math.html "https://www.a1k0n.net/2011/07/20/donut-math.html")
